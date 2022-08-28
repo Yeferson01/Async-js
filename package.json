@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node ./callBack/challengeCB.js"
   },
   "author": "Cronos",
   "license": "MIT"
