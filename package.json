@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xhr2": "^0.2.1",
     "xmlhttprequest": "^1.8.0"
   },
@@ -7,10 +8,10 @@
   "version": "1.0.0",
   "description": "Working with asincronismo",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "callback": "node ./callBack/challengeCB.js"
   },
   "author": "Cronos",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
